@@ -34,6 +34,11 @@ In this task, I created a bar chart to visualize the population distribution of 
 
 The output chart shows the population distribution of selected countries in 2023.
 
+## LinkedIn Post
+
+I shared my Task 01 completion post on LinkedIn.
+LinkedIn Post: https://www.linkedin.com/posts/krishkumar-kanthariya-a1219b379_prodigyinfotech-datascience-internship-share-7468248379999911936-gI1i/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF13RO4BSxQXnwrZy9C1FZPwbuh33oVfKPE
+
 ## What I Learned
 
 - How to load CSV data using Pandas
